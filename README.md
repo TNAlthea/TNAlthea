@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- I don't even know what i am doing currently ...
+#### I don't even know what i am doing currently ...
 
-- but you know ... 
+#### but you know ... 
 
-- we are all trying our best innit?
+#### we are all trying our best innit?
+
+
 
 <!--
 **TNAlthea/TNAlthea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
